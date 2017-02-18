@@ -11,12 +11,12 @@ This is exercise for myself to use Mongoose, Express and React. In order to lear
 this is a great full-stack exercise. I recommand everyone to just take my pokemon.json file (./data/pokemon.json) and do the same.
 
 How to start?
-`npm install`
-To run mongoose database
-`mongod`
-To open mongoDB in terminal
-`mongo`
-To run express server
-`nodemon server/index.js`
-To run webpack
-`npm run dev`
+* `npm install`
+* To run mongoose database
+* `mongod`
+* To open mongoDB in terminal
+* `mongo`
+* To run express server
+* `nodemon server/index.js`
+* To run webpack
+* `npm run dev`
