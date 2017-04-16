@@ -1,7 +1,7 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 var pokemonJson = require('../../data/pokemon');
-var pokemonsSchema = Schema({
+var pokemonsSchema = new Schema({
   _id: Number,
   name: String,
   image: String,
